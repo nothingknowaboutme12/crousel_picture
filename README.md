@@ -1,16 +1,2 @@
-# crousel_picture
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have buila a beautiful image crousel with Animation let me show design
+![93168a5616cbc08b05598f10420bc523](https://user-images.githubusercontent.com/80411952/177999773-af0f9ca8-476c-4d3b-a10a-f7ecea39d3bd.jpg)
